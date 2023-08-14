@@ -25,7 +25,7 @@ const View = ({ id }) => {
 }
 
 
-const CommonHomeWork = ({ numberOfHomeWork }) => {
+const CommonHomeWork = () => {
 
     const [id, setView] = useState(0)
     // const view = (id) => {
